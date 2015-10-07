@@ -1,0 +1,13 @@
+事件
+===
+
+鼠标事件
++ onClick
++ onMouseover
+
+| 触摸          | 键盘       | 剪切     | 表单     | 其它     |
+| -------------|------------| ------- | ---------|----------|
+| onTouchCancel| onKeyDown  | onCopy  | onChange | onScroll |
+| onTouchEnd   | onKeyPress | onCut   | onInput  | onFocus  |
+| onTouchMove  | onKeyUp    | onPaste | onSubmit | onBlur   |
+| onTouchStart |            |         |          | onWheel  |
